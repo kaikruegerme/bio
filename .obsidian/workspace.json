@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unbenannt.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Unbenannt"
+              "title": "index"
             }
           }
         ],
@@ -194,6 +194,7 @@
   },
   "active": "e5e1924ee3c550fc",
   "lastOpenFiles": [
+    "index.html",
     "Unbenannt.md",
     "index.md",
     "README.md",
