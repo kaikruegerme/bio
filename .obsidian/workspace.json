@@ -11,28 +11,17 @@
             "id": "0cbf88e678eaf6d9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
-            }
-          },
-          {
-            "id": "e5e1924ee3c550fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true
+                "aFile": "index.html",
+                "bFile": "index.html",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "diff",
+              "title": "Diff: index.html  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +161,25 @@
               "icon": "lucide-list",
               "title": "Gliederung"
             }
+          },
+          {
+            "id": "4ed8c29a7ab55ee1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,12 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5e1924ee3c550fc",
+  "active": "0cbf88e678eaf6d9",
   "lastOpenFiles": [
-    "style.css",
-    "index.html",
+    "alt_index.md",
     "Unbenannt.md",
     "index.md",
+    "style.css",
+    "index.html",
     "README.md",
     "desktop.ini"
   ]
